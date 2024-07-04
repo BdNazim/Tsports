@@ -1,1 +1,5 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D8Rtwt5/PXL-20240623-074601965-PORTRAIT-3.jpg" group-title="Bangladashi Channel", T sports Hd
+
+http://113.212.111.246:8080/hls/col12.m3u8
